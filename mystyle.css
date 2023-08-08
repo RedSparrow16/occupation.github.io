@@ -83,11 +83,11 @@ ul li a:hover{
     height: 50px;
 }
 .socialcontainer .facebook{
-    background-image: url(../a/facebook.png);
+    background-image: url(facebook.png);
 }
 
 .socialcontainer .tbc{
-    background-image: url(../a/tbc.png);
+    background-image: url(tbc.png);
 }
 .surati{
     width:400px;
